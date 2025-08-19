@@ -54,7 +54,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+In Type 1 SCD data is overwriten, and in Type 2 SCD changes are retained. Please refer to Assignment-two-ERD.pdf for schema design and Type 1 & 2 SCD architectural options. 
 ```
 
 ***
